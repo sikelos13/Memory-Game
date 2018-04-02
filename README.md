@@ -6,7 +6,7 @@ This is a simple game built to test a users memory. There's a deck of cards with
 You need to flip all the cards and match the pairs. 
 
 ## How to Play
-Run index.html at your local broswer.
+Run index.html at your local broswer or click the link https://sikelos13.github.io/Memory-Game/
 
 ## Instructions
 * Click on a card
